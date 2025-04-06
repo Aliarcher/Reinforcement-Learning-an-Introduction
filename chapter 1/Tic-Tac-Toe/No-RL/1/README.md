@@ -16,7 +16,7 @@ python main.py
 
 ## Screenshots
 <p align="center">
-<img width=1000 src="/images/screenshot.png">
+<img width=1000 src="images/screenshot.png">
 
 </p>
 
